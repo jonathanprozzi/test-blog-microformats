@@ -8,4 +8,4 @@ This is based on my [Microformats Boilerplate HTML](https://github.com/jonathanp
 
 This repo has actual site data that can be used to test things such as IndieLogin and other headers.
 
-Thanks!
+Publishing this on Netlify so that I have a live site to test Microformats and auths.
