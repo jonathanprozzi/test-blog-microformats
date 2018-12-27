@@ -1,0 +1,36 @@
+html,
+body {
+  box-sizing: border-box;
+  width: 100vmin;
+}
+
+:root {
+  font-size: 62.5%;
+  --font-heading: Helvetica, serif;
+  --font-copy: Georgia, sans-serif;
+}
+
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6 {
+  font-family: var(--font-heading);
+}
+
+.content--container {
+  display: grid;
+  width: 80vw;
+  margin: 0 auto;
+}
+
+.content--title {
+  font-family: var(--font-heading);
+  font-size: 4.8rem;
+}
+
+.content--copy {
+  font-family: var(--font-copy);
+  font-size: 2.4rem;
+}
